@@ -1,0 +1,7 @@
+<h1>Lista de Notas</h1>
+
+<ul>
+    <li *ngFor="let nota of notas">
+        <a [routerLink]="['/notas', nota.id]">{{nota.valor}}</a>
+    </li>
+</ul>
