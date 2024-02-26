@@ -1,4 +1,4 @@
-Readme - Projeto Angular + Spring Boot + MySQL
+Readme - Projeto Angular + Spring Boot + MySQL usando Arquitetura Monolítica.
 
 Este é um guia para executar o projeto que utiliza Angular para o frontend, Spring Boot para o backend e MySQL como banco de dados.
 Pré-requisitos
